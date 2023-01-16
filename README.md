@@ -1,4 +1,4 @@
-# Final-Project-Group2
+# Shapely
 
 This project aims to design a neural network to classify simple shapes.
 
